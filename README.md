@@ -3,9 +3,9 @@
 ## 기술스택
 ### 프론트앤드
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,6 +42,7 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 
+
 ## 참여 프로젝트
 ### Decommi
 코로나 시국 이후 우리의 일상생활에 SNS가 가지는 비중이 더욱 높아졌다고 생각합니다.
@@ -61,7 +62,6 @@ https://github.com/TEAM-ACO/aco-front
 
 
 ### 공부하는것들 기록하고 있는 [블로그](https://porkbellyyam.tistory.com)
-
 
 <!--
 **PorkbellyBigfan/PorkbellyBigfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
