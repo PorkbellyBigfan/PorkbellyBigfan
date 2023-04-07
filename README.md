@@ -62,9 +62,10 @@ https://github.com/TEAM-ACO/aco-front
 
 
 ### 공부하는것들 기록하고 있는 [블로그](https://porkbellyyam.tistory.com)
-
+![TISTORY_SCREENSHOT](https://user-images.githubusercontent.com/102857959/230632242-f62b0cfd-c609-4e5f-9626-5d969b94eb73.png)
 <!--
 **PorkbellyBigfan/PorkbellyBigfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
