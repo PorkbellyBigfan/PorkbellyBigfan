@@ -41,9 +41,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-
-
-## 참여 프로젝트
+<br><br><br>
+## 참여 팀 프로젝트
 ### Decommi
 코로나 시국 이후 우리의 일상생활에 SNS가 가지는 비중이 더욱 높아졌다고 생각합니다.
 개인의 사생활이 모두의 사생활로 바뀌면서 예상치 못했던 부작용들이 심심치 않게 일어나고 있습니다.
@@ -59,8 +58,15 @@ https://github.com/PorkbellyBigfan/DeCommi
 https://github.com/TEAM-ACO/aco-back
 
 https://github.com/TEAM-ACO/aco-front
-
-
+<br><br><br>
+## 개인프로젝트
+### nextPortfolio
+next.js와 React, Notion API를 이용한 포트폴리오 페이지 사이트입니다. 배포는 next.js 와 연계해서 Vercel을 통해서 진행했습니다.
+<br>
+배포된 사이트 : https://nextjs-portfolio-eight-sooty.vercel.app/
+<br>
+Github : https://github.com/PorkbellyBigfan/nextjsPortfolio
+<br><br><br>
 ### 공부하는것들 기록하고 있는 [블로그](https://porkbellyyam.tistory.com)
 ![TISTORY_SCREENSHOT](https://user-images.githubusercontent.com/102857959/230632242-f62b0cfd-c609-4e5f-9626-5d969b94eb73.png)
 <!--
