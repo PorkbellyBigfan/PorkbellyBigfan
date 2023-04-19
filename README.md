@@ -61,6 +61,8 @@ https://github.com/TEAM-ACO/aco-front
 <br><br><br>
 ## 개인프로젝트
 ### nextPortfolio
+![image](https://user-images.githubusercontent.com/102857959/233055475-f1ab9fff-5197-44bc-8c48-fe8db096f656.png)
+
 next.js와 React, Notion API를 이용한 포트폴리오 페이지 사이트입니다. 배포는 next.js 와 연계해서 Vercel을 통해서 진행했습니다.
 <br>
 배포된 사이트 : https://nextjs-portfolio-eight-sooty.vercel.app/
